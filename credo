@@ -1,0 +1,15 @@
+/* ⚠ POR FAVOR NO MODIFIQUES NADA DE AQUÍ ⚠ */
+
+let handler = async (m, { conn, usedPrefix, command }) => {
+let name = await conn.getName(m.sender)
+let credo =`
+             Credo
+Creo en Dios, Padre todopoderoso, Creador del Cielo y de la tierra. Creo en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios Padre todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos.
+
+Creo en el Espíritu Santo, la santa Iglesia Católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.
+`.trim()
+conn.sendHydrated(m.chat, donar, wm, null, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', null, null, [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)}
+handler.help = ['dios']
+handler.tags = ['info']
+handler.command = /^dona(te|si)|resar|credo$/i
+export default handler
