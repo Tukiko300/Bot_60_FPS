@@ -1,4 +1,5 @@
-console.log('✅ㅤIniciando...')
+console.log('✅ㅤInicializando...')
+Recuerde que el bot es MD :)
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
