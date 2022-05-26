@@ -8,8 +8,8 @@ No hay nada que donar...
 Mi número se ha baneado
 ¿Que hago? 
 ------------------------------------------------------------------------------------------------
-Pues habla con la empresa, yo 
-No tengo la culpa :v
+Pues habla con la empresa, 
+yo no tengo la culpa :v
 https://faq.whatsapp.com/android?lg=es&lc=PY&eea=0&anid=2c3ba50e-8911-471b-bb7d-472c5ef41545
 
 `.trim()
