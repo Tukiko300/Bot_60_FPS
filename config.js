@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5219992095479', 'TUKIKO300', true],
+  ['595985168557', 'TUKIKO300', true],
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,7 +63,7 @@ global.author = 'KOMI❤️'
 
 global.wm = 'V.45.75'
 global.igfg = 'V.45.75'
-global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
+global.wait = '✅Procesando...'
 
 global.multiplier = 9999 // The higher, The harder levelup
 
