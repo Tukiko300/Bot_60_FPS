@@ -419,7 +419,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://m.animeflv.net', 'Spy x Family', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://m.animeflv.net', 'SpyxFamily', null, null, [
 conn.sendHydrated(m.chat, str, wm, pp, 'https://termux.com', 'TERMUX', null, null, [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
