@@ -258,10 +258,6 @@ let str = `
 ° ඬ⃟🔞 _${usedPrefix}furro_
 ° ඬ⃟🔞 _${usedPrefix}imagenlesbians_
 ° ඬ⃟🔞 _${usedPrefix}panties_
-° ඬ⃟🔞 _${usedPrefix}pene_
-° ඬ⃟🔞 _${usedPrefix}porno_
-° ඬ⃟🔞 _${usedPrefix}porno2_
-° ඬ⃟🔞 _${usedPrefix}randomxxx_
 ° ඬ⃟🔞 _${usedPrefix}pechos_
 ° ඬ⃟🔞 _${usedPrefix}yaoi_
 ° ඬ⃟🔞 _${usedPrefix}yaoi2_
